@@ -1,0 +1,10 @@
+{
+  "name": "FlashLight++",
+  "description": "The World's First Premium Flashlight - Enterprise AI Photon Illumination Parody Application.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
